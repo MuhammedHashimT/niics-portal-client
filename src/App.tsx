@@ -6,9 +6,9 @@ import Views from '@/views'
 import appConfig from './configs/app.config'
 import './locales'
 
-// if (appConfig.enableMock) {
-//     import('./mock')
-// }
+if (appConfig.enableMock) {
+    import('./mock')
+}
 
 function App() {
     return (
