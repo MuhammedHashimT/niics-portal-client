@@ -1,8 +1,8 @@
-# Ecme - The Ultimate React, Vite & TypeScript Web Template
+# NIICS ADMISSON PORTAL - The Ultimate React, Vite & TypeScript Web Template
 
-Ecme  is a modern and responsive admin dashboard template built with React and TypeScript. Designed to provide a highly customizable and easy-to-use platform for building admin interfaces, it includes a variety of reusable components, pre-designed pages, and dynamic features. 
+NIICS ADMISSON PORTAL  is a modern and responsive admin dashboard template built with React and TypeScript. Designed to provide a highly customizable and easy-to-use platform for building admin interfaces, it includes a variety of reusable components, pre-designed pages, and dynamic features. 
 
-This template is perfect for developing dashboards, web applications, CRM systems, e-commerce backends, and more. Whether you're building a small-scale admin panel or a large-scale enterprise application, Ecme is designed to be flexible and scalable.
+This template is perfect for developing dashboards, web applications, CRM systems, e-commerce backends, and more. Whether you're building a small-scale admin panel or a large-scale enterprise application, NIICS ADMISSON PORTAL is designed to be flexible and scalable.
 
 Key Features:
 - **Responsive Layout**: Optimized for all screen sizes and devices.
@@ -16,9 +16,9 @@ Key Features:
 
 ---
 ### Demo
-Check out the [Live Demo](https://ecme-react.themenate.net/) to explore the template in action.
+Check out the [Live Demo](https://niics-react.themenate.net/) to explore the template in action.
 
 
 ### Guide
-Please visit our [Online documentation](https://ecme-react.themenate.net/guide/documentation/introduction) for detailed guides, setup instructions, and customization options.
+Please visit our [Online documentation](https://niics-react.themenate.net/guide/documentation/introduction) for detailed guides, setup instructions, and customization options.
 
